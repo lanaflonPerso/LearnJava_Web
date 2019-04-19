@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.trl</groupId>
+    <artifactId>LearnJava_Web</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>LearnJava_Web Maven Webapp</name>
+    <url>http://www.trl.com</url>
+
+    <modules>
+        <module>web_1</module>
+    </modules>
+
+
+
+    <!--================================================= Properties ================================================-->
+    <properties>
+
+        <!--============ Maven Settings ============-->
+        <java.version_6>1.6</java.version_6>
+        <java.version_7>1.7</java.version_7>
+        <java.version_8>8</java.version_8>
+        <java.version_11>11</java.version_11>
+        <java.version_12>12</java.version_12>
+
+        <sourceEncoding>UTF-8</sourceEncoding>
+
+    </properties>
+
+
+
+    <!--================================================ Dependencies ===============================================-->
+    <dependencies>
+
+    </dependencies>
+
+</project>
